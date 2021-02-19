@@ -1,3 +1,32 @@
+# Phân tích
+
+Page gồm các components :
+
+- Header
+  - Header top module
+  - Header navbar
+- Slider
+  - Slider Image with Arrow
+  - Slider Image with Dot
+  - Slider Text with discount
+  - Slider Product Recommend
+- Content
+  - Filter
+  - Find Store ( Map )
+  - Check Delivery
+  - Cart
+  - Pay
+  - Subtotal
+  - Information to pay
+  - Information Cart
+  - Breadcrumb
+  - Lovelist
+  - List Product
+  - Product Details
+  - Right Module
+  - Feeds
+- Footer
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

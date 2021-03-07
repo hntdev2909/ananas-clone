@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,300;0,400;0,600;1,400&display=swap');
 
+:root {
+	--primary-color: #ff5f17;
+	--text-color: #000;
+	--unhover-text-color: #999;
+	--white-color: #fff;
+	--background-header: #303030;
+	--background-slider: #f1f1f1;
+	--background-dropdown: #4c4c4;
+	--background-footer: #4c4c4c;
+	--background-right-module: #555555;
+}
+
 * {
 	padding: 0;
 	margin: 0;
